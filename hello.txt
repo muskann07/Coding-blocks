@@ -1,0 +1,77 @@
+{
+  "filename": "Sameer_resume (2) (1).pdf",
+  "candidate_tech": [
+    "TensorFlow",
+    "React",
+    "OpenCV",
+    "NodeJS",
+    "HTML",
+    "Seaborn",
+    "Matplotlib",
+    "NumPy",
+    "JavaScript",
+    "Pandas",
+    "SQL",
+    "C++",
+    "CSS",
+    "Scikit-learn",
+    "Java",
+    "ML",
+    "Python"
+  ],
+  "matched_skills": [],
+  "missing_skills": [],
+  "score": 0,
+  "projects": [
+    {
+      "name": "SupportFlow - Customer Support Platform for Startups",
+      "description": "● Building SupportFlow, a customer support platform designed for startups to manage tickets, chats, and client interactions.\n● Developing core modules including agent auto-assignment, real-time chat, analytics and multi-channel support.",
+      "tech_stack": [
+        "Web",
+        "Data Science"
+      ],
+      "based_on": "AI",
+      "rating": 7
+    },
+    {
+      "name": "Face-detection system | Link",
+      "description": "● Developed a real-time face detection system using OpenCV and Haar Cascade Classifier for accurate face recognition.\n● Implemented the solution to work efficiently across various lighting conditions and backgrounds using pre-trained models.",
+      "tech_stack": [
+        "Software",
+        "Computer Vision",
+        "ML",
+        "OpenCV"
+      ],
+      "based_on": "AI",
+      "rating": 9
+    },
+    {
+      "name": "Real-Estate price prediction | Link",
+      "description": "● Built a real estate price predictor using Linear Regression.\n● Cleaned and processed housing data for better model accuracy.",
+      "tech_stack": [
+        "ML",
+        "Data Science"
+      ],
+      "based_on": "AI",
+      "rating": 9
+    },
+    {
+      "name": "InsurePro: Dynamic Insurance Premium Calculator | Link",
+      "description": "● Developed a comprehensive insurance premium calculator.\n● Dynamically computes rates based on multiple risk factors.",
+      "tech_stack": [
+        "Software"
+      ],
+      "based_on": null,
+      "rating": 7
+    },
+    {
+      "name": "Flash-cards | Link",
+      "description": "● Developed a flashcard-based learning app to improve knowledge retention, featuring intuitive creation, organization, and review tools.\n● Engineered efficient data handling using optimized data structures for fast storage and retrieval of flashcards.",
+      "tech_stack": [
+        "Data Science"
+      ],
+      "based_on": "AI",
+      "rating": 7
+    }
+  ]
+}
